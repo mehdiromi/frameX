@@ -1,0 +1,115 @@
+x16, .x16 {
+  width: 1628px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x15, .x15 {
+  width: 1526px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x14, .x14 {
+  width: 1424px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x13, .x13 {
+  width: 1322px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x12, .x12 {
+  width: 1220px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x11, .x11 {
+  width: 1118px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x10, .x10 {
+  width: 1016px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x9, .x9 {
+  width: 914px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x8, .x8 {
+  width: 812px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x7, .x7 {
+  width: 710px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x6, .x6 {
+  width: 608px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x5, .x5 {
+  width: 506px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x4, .x4 {
+  width: 404px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x3, .x3 {
+  width: 302px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x2, .x2 {
+  width: 200px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+x1, .x1 {
+  width: 98px;
+  float: left;
+  margin: 1px;
+  padding: 1px;
+}
+html body * span.clear,
+.clear,
+html body * div.clear,
+html body * li.clear,
+html body * dd.clear {
+  background: none;
+  border: 0;
+  clear: both;
+  display: block;
+  float: none;
+  font-size: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
