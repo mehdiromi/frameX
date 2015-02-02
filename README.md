@@ -30,9 +30,7 @@ FrameX is a simple less code allows your web UI adjusted in an easy and less cod
    }
    .repeat (0) {}
    .repeat(@iterations);
-   
-   
-    html body * span.clear,
+   html body * span.clear,
    .clear, 
    html body * div.clear,html body * li.clear,html body * dd.clear {
    background:none; border:0;clear:both;display:block;float:
