@@ -21,19 +21,18 @@ FrameX is a simple less code allows your web UI adjusted in an easy and less cod
     //font-size: 13px;
     //border: 1px solid;
     }
-
     .repeat(@index) when (@index > 0) {
     (~"x@{index}, .x@{index}") {
         .frameX(@index);
     }
     .repeat (@index - 1);
-   }
-   .repeat (0) {}
-   .repeat(@iterations);
-   html body * span.clear,
-   .clear, 
-   html body * div.clear,html body * li.clear,html body * dd.clear {
-   background:none; border:0;clear:both;display:block;float:
-   none;font-size:0;list-style:none;margin:0;padding:0;overflow:hidden;visibility:hidden;width:0;height:0;
-   }
+    }
+    .repeat (0) {}
+    .repeat(@iterations);
+    html body * span.clear,
+    .clear, 
+    html body * div.clear,html body * li.clear,html body * dd.clear {
+    background:none; border:0;clear:both;display:block;float:
+    none;font-size:0;list-style:none;margin:0;padding:0;overflow:hidden;visibility:hidden;width:0;height:0;
+    }
    
